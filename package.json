@@ -1,0 +1,16 @@
+{
+  "name": "node-jasmin-example",
+  "version": "0.0.1",
+  "description": "Simple hello world demo app with jasmin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jasmine-node/bin/jasmine-node spec"
+  },
+  "author": "Akash Rajguru",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.76.0"
+  }
+}
