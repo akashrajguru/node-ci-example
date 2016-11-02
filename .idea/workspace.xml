@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4256542e-70dc-493f-ae8c-c3514563c64f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.js" afterPath="$PROJECT_DIR$/app/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/generatorSpec.js" afterPath="$PROJECT_DIR$/spec/generatorSpec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/helloWorldSpec.js" afterPath="$PROJECT_DIR$/spec/helloWorldSpec.js" />
     </list>
     <ignored path="node-jasmin-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -276,7 +273,7 @@
       <updated>1477655317948</updated>
       <workItem from="1477655319176" duration="6387000" />
       <workItem from="1477663801258" duration="7843000" />
-      <workItem from="1477995607453" duration="22044000" />
+      <workItem from="1477995607453" duration="22746000" />
     </task>
     <servers />
   </component>
@@ -313,7 +310,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36274000" />
+    <option name="totallyTimeSpent" value="36976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1745" y="-4" width="1855" height="1084" extended-state="6" />
