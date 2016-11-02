@@ -12,7 +12,7 @@ describe("Hellow World Server", function () {
 
        it("return Hello World", function (done) {
            request.get(base_url, function (error, responce, body) {
-               expect(body).toBe("Hello World1");
+               expect(body).toBe("Hello World");
                done();
            });
        });
