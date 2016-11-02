@@ -1,5 +1,5 @@
 var generator = require("../app/generator");
-
+/*Test Suite*/
 describe("Hello World Generator", function () {
 
     it("returns an array", function () {
@@ -7,7 +7,7 @@ describe("Hello World Generator", function () {
     });
 
 
-    it("returns the correct numner of Hello Worlds", function () {
+    it("returns the correct number of Hello Worlds", function () {
        var result = generator.generateHelloWorlds(3);
         expect(result.length).toBe(3);
     });
