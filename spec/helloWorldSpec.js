@@ -32,14 +32,14 @@ describe("Hello World Server", function () {
 
         it("should return array with length of 3", function (done) {
             request.get(base_url + 'number/3', function (error, response, body) {
-                expect(body.length).toBe(3);
+                expect(body.length).toBe(43);
                 done();
             });
         });
 
         it("should return array with 3 Hello World", function (done) {
             request.get(base_url + 'number/3', function (error, response, body) {
-                expect(body).toEqual(["Hello World","Hello World","Hello World"]);
+                expect(body).toEqual('["Hello World","Hello World","Hello World"]');
                 done();
             });
         });
