@@ -20,5 +20,4 @@ describe("Hello World Generator", function () {
 
         })
     });
-
 });
