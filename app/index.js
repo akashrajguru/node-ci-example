@@ -15,7 +15,6 @@ generateHelloWorlds = function(number) {
 
     console.log("result : "+result);
     return result;
-
 }
 
 app.get("/", function(req, res) {
