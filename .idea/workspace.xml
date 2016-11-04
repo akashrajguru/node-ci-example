@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4256542e-70dc-493f-ae8c-c3514563c64f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.js" afterPath="$PROJECT_DIR$/app/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/helloWorldSpec.js" afterPath="$PROJECT_DIR$/spec/helloWorldSpec.js" />
     </list>
     <ignored path="node-jasmin-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,17 +56,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helloWorldSpec.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="helloWorldSpec.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/helloWorldSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="462">
+              <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
@@ -91,9 +91,9 @@
         <option value="$PROJECT_DIR$/node_modules/.bin/jasmine-node" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/spec/helloWorldSpec.js" />
         <option value="$PROJECT_DIR$/spec/generatorSpec.js" />
         <option value="$PROJECT_DIR$/app/index.js" />
+        <option value="$PROJECT_DIR$/spec/helloWorldSpec.js" />
       </list>
     </option>
   </component>
@@ -237,7 +237,7 @@
       <workItem from="1477655319176" duration="6387000" />
       <workItem from="1477663801258" duration="7843000" />
       <workItem from="1477995607453" duration="24783000" />
-      <workItem from="1478187107809" duration="2706000" />
+      <workItem from="1478187107809" duration="2881000" />
     </task>
     <servers />
   </component>
@@ -274,7 +274,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41719000" />
+    <option name="totallyTimeSpent" value="41894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1745" y="-4" width="1855" height="1084" extended-state="6" />
@@ -535,14 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/helloWorldSpec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/generatorSpec.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -555,6 +547,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/helloWorldSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
           <folding />
         </state>
       </provider>

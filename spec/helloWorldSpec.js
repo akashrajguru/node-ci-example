@@ -29,7 +29,7 @@ describe("Hello World Server", function () {
 
         it("should return array with length of 3", function () {
             request.get(base_url+'number/3', function (error, response, body) {
-                expect(body.length).toBe(3);
+                expect(body.length).toBe(2);
             });
         });
 
