@@ -18,6 +18,7 @@ describe("Hello World Generator", function () {
         result.forEach(function (element) {
             expect(element).toBe("Hello World");
 
-        })
+        });
     });
+
 });
