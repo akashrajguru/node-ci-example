@@ -21,4 +21,4 @@ RUN npm install
 COPY . /usr/src/node-ci-example
 
 EXPOSE 3000
-CMD ["npm","start","test"]
+CMD ["npm","start"]
