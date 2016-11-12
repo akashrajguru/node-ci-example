@@ -8,17 +8,17 @@ FROM node:4.6.1
 MAINTAINER Akash Rajguru <a.rajguru@research.ait.ie>
 
 # Create app directory
-RUN mkdir -p /usr/src/node-jasmin-example
-WORKDIR /usr/src/node-jasmin-example
+RUN mkdir -p /usr/src/node-ci-example
+WORKDIR /usr/src/node-ci-example
 
 
 # Install app dependencies
-COPY package.json /usr/src/node-jasmin-example/
+COPY package.json /usr/src/node-ci-example/
 RUN npm install
 
 
 # Bundle app source
-COPY . /usr/src/node-jasmin-example
+COPY . /usr/src/node-ci-example
 
 EXPOSE 3000
 CMD ["npm","start"]
